@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0874-backspace-string-compare](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1547-destination-city](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1547-destination-city) |
 | [1666-make-the-string-great](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1666-make-the-string-great) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
@@ -77,6 +79,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1666-make-the-string-great) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
