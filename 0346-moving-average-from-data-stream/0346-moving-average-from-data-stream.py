@@ -9,8 +9,8 @@ class MovingAverage:
 
         if len(self.queue) ==  self.size:
             self.queue.popleft() # Pop from left if the length of the queue exceeds the size
-        # Returning the average of sliding window 
         
+        # Returning the average of sliding window 
         self.queue.append(val)
 
         return sum(self.queue) / len(self.queue)
