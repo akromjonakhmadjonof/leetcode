@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0525-contiguous-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0525-contiguous-array) |
 | [1547-destination-city](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1547-destination-city) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0874-backspace-string-compare](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1666-make-the-string-great) |
 ## Simulation
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0346-moving-average-from-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
