@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0071-simplify-path) |
+| [0225-implement-stack-using-queues](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0874-backspace-string-compare](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1666-make-the-string-great) |
@@ -96,10 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0346-moving-average-from-data-stream](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0346-moving-average-from-data-stream) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0346-moving-average-from-data-stream](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0387-first-unique-character-in-a-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Data Stream
