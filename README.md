@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0217-contains-duplicate) |
 | [0346-moving-average-from-data-stream](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0525-contiguous-array) |
 | [1547-destination-city](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1547-destination-city) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0525-contiguous-array) |
 | [1547-destination-city](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1547-destination-city) |
