@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0749-shortest-completing-word) |
+| [0822-unique-morse-code-words](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0837-most-common-word) |
 | [1006-vowel-spellchecker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1137-height-checker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1137-height-checker) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0749-shortest-completing-word) |
+| [0822-unique-morse-code-words](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0837-most-common-word) |
 | [1006-vowel-spellchecker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1547-destination-city](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1547-destination-city) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0749-shortest-completing-word) |
+| [0822-unique-morse-code-words](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0874-backspace-string-compare) |
 | [1006-vowel-spellchecker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1006-vowel-spellchecker) |
