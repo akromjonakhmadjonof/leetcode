@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0346-moving-average-from-data-stream](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
 |  |
