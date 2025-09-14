@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0837-most-common-word) |
 | [1006-vowel-spellchecker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1006-vowel-spellchecker) |
+| [1137-height-checker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1137-height-checker) |
 | [1547-destination-city](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1547-destination-city) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1137-height-checker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1137-height-checker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
