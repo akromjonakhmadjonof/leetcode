@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0217-contains-duplicate) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0217-contains-duplicate) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0242-valid-anagram) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0217-contains-duplicate) |
