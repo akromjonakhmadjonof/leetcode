@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0837-most-common-word) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
