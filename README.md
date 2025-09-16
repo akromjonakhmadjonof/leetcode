@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0837-most-common-word) |
 | [1006-vowel-spellchecker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-destination-city](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1547-destination-city) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1006-vowel-spellchecker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-destination-city](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1547-destination-city) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1006-vowel-spellchecker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1547-destination-city](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1547-destination-city) |
