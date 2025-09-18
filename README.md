@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1547-destination-city) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2159-two-out-of-three](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2159-two-out-of-three) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3324-split-the-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3324-split-the-array) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1547-destination-city) |
 | [1666-make-the-string-great](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1666-make-the-string-great) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0645-set-mismatch) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2159-two-out-of-three) |
 ## Tree
 |  |
