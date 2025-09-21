@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2714-left-and-right-sum-differences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2892-check-if-array-is-good](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2892-check-if-array-is-good) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3324-split-the-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3324-split-the-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0525-contiguous-array) |
+| [2714-left-and-right-sum-differences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Stack
 |  |
 | ------- |
