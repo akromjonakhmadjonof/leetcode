@@ -1,10 +1,13 @@
 class Solution:
     def subarraySum(self, nums: List[int]) -> int:
         n = len(nums)
- 
-        results = [0] * n
+        prefix = [nums[0]]
+        for i in range(1, n + 1):
+            prefix.append(prefix[-1] + nums[i - 1])
+
+        result = 0
         for i in range(n):
             start = max(0, i - nums[i])
-            results[i] = sum(nums[start:i + 1])
+            result += prefix[i+1] - prefix[start]
         
-        return sum(results)
+        return result
