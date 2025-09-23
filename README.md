@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2892-check-if-array-is-good) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3324-split-the-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3324-split-the-array) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0067-add-binary) |
 | [1635-number-of-good-pairs](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0525-contiguous-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2714-left-and-right-sum-differences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Stack
 |  |
