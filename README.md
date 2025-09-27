@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2486-most-frequent-even-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2714-left-and-right-sum-differences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1933-number-of-different-integers-in-a-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2159-two-out-of-three](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2486-most-frequent-even-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2486-most-frequent-even-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2486-most-frequent-even-element) |
 | [3324-split-the-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3324-split-the-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
