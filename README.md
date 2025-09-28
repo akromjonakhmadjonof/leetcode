@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1708-design-parking-system](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -225,11 +226,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0874-backspace-string-compare) |
+| [1708-design-parking-system](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1708-design-parking-system) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0346-moving-average-from-data-stream](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [1708-design-parking-system](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1708-design-parking-system) |
 ## Queue
 |  |
 | ------- |
