@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2486-most-frequent-even-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1500-count-largest-group](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0874-backspace-string-compare) |
 | [1708-design-parking-system](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1708-design-parking-system) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Design
 |  |
 | ------- |
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
