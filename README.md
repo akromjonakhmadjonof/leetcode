@@ -340,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
