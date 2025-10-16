@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2447-merge-similar-items](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2447-merge-similar-items) |
 | [2486-most-frequent-even-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2447-merge-similar-items](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2447-merge-similar-items) |
 | [2486-most-frequent-even-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2331-intersection-of-multiple-arrays](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2447-merge-similar-items](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2447-merge-similar-items) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2892-check-if-array-is-good](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2892-check-if-array-is-good) |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Ordered Set
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2447-merge-similar-items) |
 <!---LeetCode Topics End-->
