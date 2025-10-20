@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0169-majority-element) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0036-valid-sudoku) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Combinatorics
 |  |
