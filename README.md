@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0749-shortest-completing-word) |
+| [0792-binary-search](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0829-subdomain-visit-count](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0837-most-common-word) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0792-binary-search](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Counting Sort
 |  |
