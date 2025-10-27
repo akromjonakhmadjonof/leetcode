@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0367-valid-perfect-square) |
+| [0728-self-dividing-numbers](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1500-count-largest-group) |
