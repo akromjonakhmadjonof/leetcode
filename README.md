@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1137-height-checker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-destination-city](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1547-destination-city) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1635-number-of-good-pairs) |
