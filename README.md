@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0697-degree-of-an-array) |
+| [0747-min-cost-climbing-stairs](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0749-shortest-completing-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0822-unique-morse-code-words) |
@@ -480,5 +481,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1764-maximum-repeating-substring](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
