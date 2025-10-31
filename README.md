@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1642-water-bottles) |
