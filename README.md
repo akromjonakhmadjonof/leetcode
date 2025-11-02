@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Number Theory
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-maximum-repeating-substring](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1764-maximum-repeating-substring) |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0572-subtree-of-another-tree](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Ordered Set
 |  |
 | ------- |
