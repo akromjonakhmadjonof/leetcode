@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0829-subdomain-visit-count](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0965-unique-email-addresses](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0965-unique-email-addresses) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1006-vowel-spellchecker) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0829-subdomain-visit-count](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0165-compare-version-numbers) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0841-shortest-distance-to-a-character](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
