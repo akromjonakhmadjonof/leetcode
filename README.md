@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2892-check-if-array-is-good) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3324-split-the-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-check-if-the-number-is-fascinating](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2998-count-symmetric-integers](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3336-water-bottles-ii) |
 | [3567-convert-date-to-binary](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2892-check-if-array-is-good](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2892-check-if-array-is-good) |
+| [3321-type-of-triangle](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
