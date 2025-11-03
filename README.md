@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0851-goat-latin) |
 | [0874-backspace-string-compare](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
