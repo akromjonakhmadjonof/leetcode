@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0205-isomorphic-strings) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0079-word-search) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Combinatorics
@@ -544,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0692-top-k-frequent-words) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
