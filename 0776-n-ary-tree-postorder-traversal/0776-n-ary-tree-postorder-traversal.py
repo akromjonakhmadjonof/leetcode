@@ -7,12 +7,16 @@ class Node:
 """
 
 class Solution:
+        
     def postorder(self, root: 'Node') -> List[int]:
-        if not root:
-            return []
         values = []
-        children = root.children
-        for child in children:
-            values.extend(self.postorder(child))
-        values.append(root.val)
+
+        def dfs(node):
+            if not node:
+                return
+            children = node.children
+            for child in children:
+                dfs(child)
+            values.append(node.val)
+        dfs(root)
         return values
