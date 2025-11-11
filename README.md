@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0346-moving-average-from-data-stream](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-shortest-distance-to-a-character](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0287-find-the-duplicate-number](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
