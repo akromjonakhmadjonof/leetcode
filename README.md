@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2427-first-letter-to-appear-twice](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3567-convert-date-to-binary](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1666-make-the-string-great) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3336-water-bottles-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
