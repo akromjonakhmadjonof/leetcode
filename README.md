@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0189-rotate-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0326-power-of-three) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
