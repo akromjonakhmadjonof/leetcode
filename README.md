@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3447-clear-digits](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1666-make-the-string-great) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3336-water-bottles-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3336-water-bottles-ii) |
+| [3447-clear-digits](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
