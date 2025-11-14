@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0636-exclusive-time-of-functions](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0636-exclusive-time-of-functions](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
