@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2447-merge-similar-items) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2486-most-frequent-even-element) |
 | [3324-split-the-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3324-split-the-array) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
