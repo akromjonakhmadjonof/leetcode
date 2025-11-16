@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1137-height-checker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/akromjonakhmadjonof/leetcode/tree/master/1500-count-largest-group) |
