@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0079-word-search) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0079-word-search) |
 ## Merge Sort
 |  |
