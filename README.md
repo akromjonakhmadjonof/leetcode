@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2892-check-if-array-is-good](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2892-check-if-array-is-good) |
+| [2942-find-words-containing-character](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2942-find-words-containing-character](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2942-find-words-containing-character) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3567-convert-date-to-binary) |
