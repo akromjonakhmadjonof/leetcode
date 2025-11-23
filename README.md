@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2561-number-of-distinct-averages](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2714-left-and-right-sum-differences](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2892-check-if-array-is-good](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2892-check-if-array-is-good) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2678-number-of-senior-citizens](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2942-find-words-containing-character) |
