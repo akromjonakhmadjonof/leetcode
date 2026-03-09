@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0636-exclusive-time-of-functions) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0749-shortest-completing-word](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0749-shortest-completing-word) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0645-set-mismatch](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0948-sort-an-array) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0392-is-subsequence) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-shortest-distance-to-a-character](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0874-backspace-string-compare) |
