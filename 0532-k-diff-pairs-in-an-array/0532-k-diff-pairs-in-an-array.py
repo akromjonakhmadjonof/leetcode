@@ -16,5 +16,4 @@ class Solution:
                     pointer += 1
                 else:
                     break
-        print(results)
         return len(results)
