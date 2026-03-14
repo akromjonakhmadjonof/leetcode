@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/akromjonakhmadjonof/leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/akromjonakhmadjonof/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Design
 |  |
 | ------- |
