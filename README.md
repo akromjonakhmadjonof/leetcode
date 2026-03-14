@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0069-sqrtx) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/akromjonakhmadjonof/leetcode/tree/master/0067-add-binary) |
